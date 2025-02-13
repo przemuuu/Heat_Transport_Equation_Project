@@ -1,0 +1,25 @@
+﻿  projektVisualStudio.cpp
+C:\Users\Przemson\Desktop\Projekty - III semestr\Rurki\projektVisualStudio\projektVisualStudio\gnuplot-iostream-master\gnuplot-iostream.h(579,9): warning C4984: „if constexpr” jest rozszerzeniem języka C++17
+  (kompilowanie pliku źródłowego „projektVisualStudio.cpp”)
+  C:\Users\Przemson\Desktop\Projekty - III semestr\Rurki\projektVisualStudio\projektVisualStudio\gnuplot-iostream-master\gnuplot-iostream.h(579,9):
+  kontekst tworzenia wystąpienia szablonu (najpierw najstarszy) to
+  	C:\Users\Przemson\Desktop\Projekty - III semestr\Rurki\projektVisualStudio\projektVisualStudio\gnuplot-iostream-master\gnuplot-iostream.h(584,2):
+  	zobacz odwołanie do kompilowanego tworzenia wystąpienia „gnuplotio::TextSender<T,enable_if<gnuplotio::is_boost_tuple<T,void>,void>::type>” klasy klasa szablon
+  
+C:\Users\Przemson\Desktop\Projekty - III semestr\Rurki\projektVisualStudio\projektVisualStudio\gnuplot-iostream-master\gnuplot-iostream.h(592,9): warning C4984: „if constexpr” jest rozszerzeniem języka C++17
+  (kompilowanie pliku źródłowego „projektVisualStudio.cpp”)
+  C:\Users\Przemson\Desktop\Projekty - III semestr\Rurki\projektVisualStudio\projektVisualStudio\gnuplot-iostream-master\gnuplot-iostream.h(592,9):
+  kontekst tworzenia wystąpienia szablonu (najpierw najstarszy) to
+  	C:\Users\Przemson\Desktop\Projekty - III semestr\Rurki\projektVisualStudio\projektVisualStudio\gnuplot-iostream-master\gnuplot-iostream.h(597,2):
+  	zobacz odwołanie do kompilowanego tworzenia wystąpienia „gnuplotio::BinfmtSender<T,enable_if<gnuplotio::is_boost_tuple<T,void>,void>::type>” klasy klasa szablon
+  
+C:\Users\Przemson\Desktop\Projekty - III semestr\Rurki\projektVisualStudio\projektVisualStudio\gnuplot-iostream-master\gnuplot-iostream.h(605,9): warning C4984: „if constexpr” jest rozszerzeniem języka C++17
+  (kompilowanie pliku źródłowego „projektVisualStudio.cpp”)
+  C:\Users\Przemson\Desktop\Projekty - III semestr\Rurki\projektVisualStudio\projektVisualStudio\gnuplot-iostream-master\gnuplot-iostream.h(605,9):
+  kontekst tworzenia wystąpienia szablonu (najpierw najstarszy) to
+  	C:\Users\Przemson\Desktop\Projekty - III semestr\Rurki\projektVisualStudio\projektVisualStudio\gnuplot-iostream-master\gnuplot-iostream.h(609,2):
+  	zobacz odwołanie do kompilowanego tworzenia wystąpienia „gnuplotio::BinarySender<T,enable_if<gnuplotio::is_boost_tuple<T,void>,void>::type>” klasy klasa szablon
+  
+  projektVisualStudio.vcxproj -> C:\Users\Przemson\Desktop\Projekty - III semestr\Rurki\projektVisualStudio\x64\Debug\projektVisualStudio.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
